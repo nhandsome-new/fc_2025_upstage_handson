@@ -1,4 +1,4 @@
 weave==0.52.9
-weave[scorers]
+# weave[scorers]
 jupyter==1.1.1
 # ipykernel
