@@ -37,7 +37,8 @@ Google Colabの利用をおすすめしますが、
   - サンプルデータを用いた、情報抽出の結果
 
 - [Option_Upstage_HandsOn_3_Plus](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_3_Plus.ipynb)
-  - OPEN AI 
+  - OPENAI API KEYのお持ちの方
+  - OPENAI Embedding Modelを用いた、文字列の類似度評価 
 
 ### 💻 2. Local Jupyter Notebook の場合
 
