@@ -26,7 +26,7 @@ Google Colabの利用をおすすめしますが、
    - Upstage Document Parse(DP) / Upstage Solar Pro 2(LLM) の理解・動作確認
    - Upstage Document Parse(DP) / Upstage Solar Pro 2(LLM) の活用例
    - WeaveのTrace機能
-2. [Upstage_HandsOn_2]((https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2.ipynb))
+2. [Upstage_HandsOn_2](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2.ipynb)
    - Upstage Document Parse(DP) / Upstage Solar Pro 2(LLM) を用いた、情報抽出
    - 実活用のための修正
 3. [Upstage_HandsOn_3](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_3.ipynb)
