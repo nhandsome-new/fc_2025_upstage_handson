@@ -33,6 +33,7 @@ Google Colabの利用をおすすめしますが、
    - Weaveの評価
 
 
+#### 参考（ご興味のある方のみ）
 - [Option_Upstage_HandsOn_2_All_Results](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2_All_Results.ipynb)
   - サンプルデータを用いた、情報抽出の結果
 
@@ -56,7 +57,7 @@ pip install -r requirements.txt
 
 # 3. APIキーを設定
 export UPSTAGE_API_KEY="YOUR_API_KEY"
-export OPENAI_API_KEY="YOUR_API_KEY"
+export WANDB_API_KEY="YOUR_API_KEY"
 
 # 4. Jupyter Kernel に登録
 python -m ipykernel install --user --name=venv_fc_upstage --display-name "Python (venv_fc_upstage)"
@@ -83,13 +84,13 @@ pip install -r requirements.txt
 #### .env ファイルの設定
 ```sh
 UPSTAGE_API_KEY="YOUR_API_KEY"
-OPENAI_API_KEY="YOUR_API_KEY"
+WANDB_API_KEY="YOUR_API_KEY"
 ```
 #### VSCode の設定
 - Extensions → Jupyter Notebook をインストール
 - Select Kernel → venv_fc_upstage を選択
 
 
-## 🔐 UPSTAGE APIキーの取得
-- [Upstage API keys](https://console.upstage.ai/api-keys)にアクセスし、APIキーを発行・コピーしてください。
+## 🔐 APIキーの取得
+- [Upstage API keys](https://console.upstage.ai/api-keys)・[WANDB](https://wandb.ai/authorize)にアクセスし、APIキーを発行・コピーしてください。
 - .env または export コマンドで環境変数として設定します。
