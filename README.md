@@ -20,14 +20,24 @@ Google Colabの利用をおすすめしますが、
 ### 🧪 1. Google Colab の場合
 
 0. [Test Code](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_Test.ipynb)
+   - ハンズオン参加の前、事前にご確認ください。
+   - Upstage / Weave / 環境の確認
 1. [Upstage_HandsOn_1](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_1.ipynb)
+   - Upstage Document Parse(DP) / Upstage Solar Pro 2(LLM) の理解・動作確認
+   - Upstage Document Parse(DP) / Upstage Solar Pro 2(LLM) の活用例
+   - WeaveのTrace機能
 2. [Upstage_HandsOn_2]((https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2.ipynb))
+   - Upstage Document Parse(DP) / Upstage Solar Pro 2(LLM) を用いた、情報抽出
+   - 実活用のための修正
 3. [Upstage_HandsOn_3](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_3.ipynb)
+   - Weaveの評価
 
 
 - [Option_Upstage_HandsOn_2_All_Results](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2_All_Results.ipynb)
+  - サンプルデータを用いた、情報抽出の結果
 
-- [Option_Upstage_HandsOn_3_Plus](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2_All_Results.ipynb)
+- [Option_Upstage_HandsOn_3_Plus](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_3_Plus.ipynb)
+  - OPEN AI 
 
 ### 💻 2. Local Jupyter Notebook の場合
 
