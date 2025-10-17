@@ -11,9 +11,23 @@
 
 ## 🧰 環境設定
 
-### 🧪 1. Google Colab の場合
-> ⚠️ 現在準備中（TODO）
+Google Colabの利用をおすすめしますが、
+- Local Jupyter Notebook
+- VSCode
 
+の利用も可能です。
+
+### 🧪 1. Google Colab の場合
+
+0. [Test Code](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_Test.ipynb)
+1. [Upstage_HandsOn_1](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_1.ipynb)
+2. [Upstage_HandsOn_2]((https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2.ipynb))
+3. [Upstage_HandsOn_3](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_3.ipynb)
+
+
+- [Option_Upstage_HandsOn_2_All_Results](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2_All_Results.ipynb)
+
+- [Option_Upstage_HandsOn_3_Plus](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2_All_Results.ipynb)
 
 ### 💻 2. Local Jupyter Notebook の場合
 
