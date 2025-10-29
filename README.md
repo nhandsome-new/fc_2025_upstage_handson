@@ -33,13 +33,18 @@ Google Colabの利用をおすすめしますが、
    - Weaveの評価
 
 
-#### 参考（ご興味のある方のみ）
+#### 参考（ご興味のある方）
 - [Option_Upstage_HandsOn_2_All_Results](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_2_All_Results.ipynb)
   - サンプルデータを用いた、情報抽出の結果
 
 - [Option_Upstage_HandsOn_3_Plus](https://colab.research.google.com/github/nhandsome-new/fc_2025_upstage_handson/blob/main/Upstage_HandsOn_3_Plus.ipynb)
   - OPENAI API KEYのお持ちの方
   - OPENAI Embedding Modelを用いた、文字列の類似度評価 
+
+- Upstage PlayGround：UI上、Document Parse（Document AI）・Syn Pro（LLM）が試せます。
+  - Jupyter Notebook / Code になれてない方、簡単に他の書類を試してみたい方
+  - [Document Parse](https://console.upstage.ai/playground/document-parsing)
+  - [Syn Pro](https://console.upstage.ai/playground/chat?model=syn-pro)
 
 ### 💻 2. Local Jupyter Notebook の場合
 
